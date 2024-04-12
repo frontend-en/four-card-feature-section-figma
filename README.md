@@ -39,4 +39,4 @@
 ```
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/frontend-en)
+- Frontend Mentor - [@frontend-en](https://www.frontendmentor.io/profile/frontend-en)
